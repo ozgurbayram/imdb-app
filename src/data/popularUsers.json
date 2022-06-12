@@ -1,0 +1,39 @@
+[
+    
+    {
+        "id":0,
+        "avatar":"../public/user.png",
+        "name":"merve.altun",
+        "entry_count":1434
+    },
+    {
+        "id":1,
+        "avatar":"../public/user.png",
+        "name":"merve.altun",
+        "entry_count":1434
+    },
+    {
+        "id":2,
+        "avatar":"../public/user.png",
+        "name":"soner.saygili",
+        "entry_count":1434
+    },
+    {
+        "id":3,
+        "avatar":"../public/user.png",
+        "name":"ezgi.sevinc",
+        "entry_count":1434
+    },
+    {
+        "id":4,
+        "avatar":"../public/user.png",
+        "name":"sude.sezgi",
+        "entry_count":1434
+    },
+    {
+        "id":5,
+        "avatar":"../public/user.png",
+        "name":"pinar.gun",
+        "entry_count":1434
+    }
+]

@@ -1,0 +1,16 @@
+.main-layout {
+    width: 1280px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    justify-content: space-between;
+    gap: 100px;
+}
+
+@media screen and (max-width: 800px) {
+    .main-layout {
+        width: auto;
+        gap: 0;
+        grid-template-columns: 1fr;
+    }
+}
