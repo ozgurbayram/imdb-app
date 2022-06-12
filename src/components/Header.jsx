@@ -1,4 +1,3 @@
-import React from 'React';
 import '../styles/Header.css'
 import logo from '../public/logo.png'
 import user from '../public/user.png'
